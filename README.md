@@ -1,4 +1,5 @@
 # Module 2 Challenge
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 2 Challenge. This challenge served as an introduction to basic coding using VBA. Topics covered including writing scripts, refactoring code, and implementing macros. 
 
 ## Overview of Project
 The purpose of this analysis was to look at the performance of 12 stocks in the years 2017 and 2018, so a friend can make recommendations on which ones to buy. The friend needed a quick way to see the stocks total daily volume and total return for the year. A script was written in VBA that allows them to type in the year they would like data for, and then the script generates the results and formats them. All our friend must do is run the script, they do not have to format the data or perform any calculations.  
